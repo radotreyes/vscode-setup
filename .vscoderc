@@ -1,0 +1,16 @@
+{
+    "auto-close-tag.enableAutoCloseTag": true,
+    "auto-close-tag.activationOnLanguage": [
+        "html",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "xml"
+    ],
+    "editor.fontFamily": "'Roboto Mono', monospace",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "eslint.autoFixOnSave": true,
+    "workbench.colorTheme": "Dracula",
+}
